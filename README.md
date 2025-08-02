@@ -1,11 +1,30 @@
-# 📝 To-Do List Web App
+# ✅ Task Manager Web App
 
-A simple and elegant **To-Do List web application** built using **HTML, CSS, and JavaScript**.  
-This app allows users to **add, edit, complete, and delete tasks** with optional date and time support, while saving tasks to **local storage** for persistence.
+A **simple, modern, and responsive** Task Manager built using **HTML**, **CSS**, and **JavaScript**.  
+This app allows you to **add, edit, complete, and delete tasks** with optional date & time fields.  
+Tasks are stored in **localStorage**, so they persist even after refreshing the page.  
+
+---
+
+## 🚀 Live Demo
+👉 [**Click Here to Try the App**](https://your-live-demo-link.com)  
+
+(*You can host for free on **GitHub Pages**, **Netlify**, or **Vercel** — see hosting guide below.*)
+
+---
+
+## 🎯 Features
+✅ Add tasks with **title, date, and time**  
+✅ **Mark tasks as complete/undo**  
+✅ **Edit tasks inline** (click “Edit” to update text)  
+✅ **Delete tasks** easily  
+✅ Data saved in **localStorage** (no backend needed)  
+✅ **Responsive UI** (works on mobile & desktop)
 
 ---
 
 ## 📂 Project Structure
+
 
 
 ---
